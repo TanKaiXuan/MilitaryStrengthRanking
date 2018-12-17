@@ -10,7 +10,7 @@ The finalized Global Firepower ranking utilized over 55 individual factors to de
 
 **Rstudio Presenter**
 
-* Rstudio Presenter: ()
+* Rstudio Presenter: http://rpubs.com/KaiXuan/MilitaryStrengthRanking
 
 
 ### Dataset
