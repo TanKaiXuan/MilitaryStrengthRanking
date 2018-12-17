@@ -6,7 +6,7 @@ The finalized Global Firepower ranking utilized over 55 individual factors to de
 
 **Shiny App**
 
-* Shiny App: ().
+* Shiny App: https://kaixuan.shinyapps.io/2018_Military_Strength_Ranking/
 
 **Rstudio Presenter**
 
